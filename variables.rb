@@ -3,10 +3,10 @@ occupation= "Student"
 state= "Oklahoma"
 
 age= "29"
-hsgradyear= "2012"
+hs_grady_ear= "2012"
 mod= "0"
 
-hightinfeet= "5.9"
+hight_feet= "5.9"
 weight= "197.6"
-waithours = "1.26"
+wait_hours = "1.26"
 
