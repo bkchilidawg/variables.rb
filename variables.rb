@@ -10,3 +10,6 @@ hight_feet= "5.9"
 weight= "197.6"
 wait_hours = "1.26"
 
+coding_sucks= false
+codings_awesome= true
+im_ready= true
