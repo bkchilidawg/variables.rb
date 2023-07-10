@@ -13,3 +13,11 @@ wait_hours = "1.26"
 coding_sucks= false
 codings_awesome= true
 im_ready= true
+
+name= "Blaine Kennedy"
+occupation= "Coding Wizard"
+state= "Calm"
+
+puts "I hope this is right"
+puts "I getting the hang of this"
+puts "Ok nap time"
